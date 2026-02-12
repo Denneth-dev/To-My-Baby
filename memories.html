@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Memories 💖</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="memories.css">
+</head>
+<body>
+
+<div class="bg-animation"></div>
+
+<div class="container">
+  <div class="glass-card">
+    <h1>📸 Our Memories</h1>
+    <p class="subtext">Every photo is a piece of my heart ❤️</p>
+
+    <div class="gallery">
+
+      <!-- PHOTOS -->
+      <div class="memory-item">
+        <img src="assets/photo1.jpg" alt="memory"
+          onclick="openLightbox('assets/photo1.jpg','photo','Best memories nang tayo lang dalawa 🥰')">
+      </div>
+
+      <div class="memory-item">
+        <img src="assets/photo2.jpg" alt="memory"
+          onclick="openLightbox('assets/photo2.jpg','photo','Ito yung moment na sobrang saya ko kasi kasama kita mag night ride kahit may aberya!🥺')">
+      </div>
+
+      <div class="memory-item">
+        <img src="assets/photo3.jpg" alt="memory"
+          onclick="openLightbox('assets/photo3.jpg','photo','ito naman yung unang coffee date natin sobrang thankful ko dahil napapayag kita, medj tampo lang kasi nag aya kapa hehe joke! 💖')">
+      </div>
+
+      <div class="memory-item">
+        <img src="assets/photo4.jpg" alt="memory"
+          onclick="openLightbox('assets/photo4.jpg','photo','Ito yung araw na hindi ka makalimutan. na kahit nasan man ako ikaw ang nasa isip ko lagi 🥺')">
+      </div>
+
+      <div class="memory-item">
+        <img src="assets/photo5.jpg" alt="memory"
+          onclick="openLightbox('assets/photo5.jpg','photo','Ito yung picture na paulit-ulit kong tinitignan kapag miss kita 🥺💕')">
+      </div>
+
+      <div class="memory-item">
+        <img src="assets/photo6.jpg" alt="memory"
+          onclick="openLightbox('assets/photo6.jpg','photo','Ito nanamn kahit alam kong ayaw mong pinipicturan ka, patago akong kumuha sayo kasi para soon may may upload ako na sobrang ganda ng mapapangasawa ko! 🥺')">
+      </div>
+
+      <div class="memory-item">
+        <img src="assets/photo7.jpg" alt="memory"
+          onclick="openLightbox('assets/photo7.jpg','photo','Sobrang ganda ng picture na ito, kasi alam ko ikaw na talaga, Kahit ayaw mo pa mag papicture 🥺')">
+      </div>
+
+      <div class="memory-item">
+        <img src="assets/photo8.jpg" alt="memory"
+          onclick="openLightbox('assets/photo8.jpg','photo','Ganda mo dito Baby nice Shot talaga. epal lang sila kuya e haha🥺')">
+      </div>
+
+      <!-- VIDEOS -->
+      <div class="memory-item">
+        <video muted autoplay loop
+          onclick="openLightbox('assets/video1.mp4','video','Sobrang saya natin dito baby sana hindi nato mag bago hanggang dulo 🥺🎥')">
+          <source src="assets/video1.mp4" type="video/mp4">
+        </video>
+      </div>
+
+      <div class="memory-item">
+        <video muted autoplay loop
+          onclick="openLightbox('assets/video2.mp4','video','The best moment na nakasama ka, kahit ano pang isipin mo or mawala man feelings mo hinding hindi ako mas sasawa na piliin ka baby 🥺🎥')">
+          <source src="assets/video2.mp4" type="video/mp4">
+        </video>
+      </div>
+
+    <button class="back-btn" onclick="goBack()">💌 Back to Letter</button>
+  </div>
+</div>
+
+<!-- LIGHTBOX -->
+<div class="lightbox" id="lightbox">
+  <span class="close" onclick="closeLightbox()">✖</span>
+
+  <div class="lightbox-content">
+
+    <img id="lightbox-img" src="" style="display:none;">
+
+    <video id="lightbox-video" controls style="display:none;">
+      <source id="lightbox-video-src" src="" type="video/mp4">
+    </video>
+
+    <p id="lightbox-text"></p>
+  </div>
+</div>
+
+<script src="memories.js"></script>
+</body>
+</html>

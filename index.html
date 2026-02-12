@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>To My Baby💌</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<audio id="bgMusic" loop>
+  <source src="assets/music.mp3" type="audio/mpeg">
+</audio>
+
+<audio id="popSound">
+  <source src="assets/pop.mp3" type="audio/mpeg">
+</audio>
+
+<div class="bg-animation"></div>
+
+<div class="container">
+  <div class="glass-card">
+
+    <div class="floating-hearts"></div>
+    <div class="sparkles"></div>
+
+    <div class="envelope" id="envelope">
+
+      <div class="front-label">
+        To: <span>Mikay 💖</span>
+      </div>
+
+      <div class="flap"></div>
+      <div class="stamp">💌</div>
+
+      <div class="letter">
+        <p id="typeText"></p>
+
+        <button class="next-btn" id="nextBtn" onclick="goToMemories()">
+          📸 View Memories
+        </button>
+      </div>
+
+    </div>
+
+    <button class="music-btn" onclick="toggleMusic()">🔊 Music</button>
+
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
