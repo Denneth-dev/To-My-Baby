@@ -19,19 +19,26 @@ I want to be honest with you even though we're not together yet, and even though
 you haven't allowed me na-ligawan ka. Also want you to know that i'm willing to 
 wait, not because i'm just hoping, but because I choose you ever single day.
 
-I realize that I've truly fallen for you for who you are and for the way you make me happy even 
+There are moments when waiting feels exhausting, when silence feels heavier than rejection, 
+and when I question if I'm holding on to something uncertain.
+Pero sa bawat pagkakataong gusto kong sumuko, bumabalik ang dahilan kung bakit kita minahal. 
+You gave my days meaning, you taught my heart how to hope, 
+and you reminded me that real love doesn't demand, it understands, it waits, it endures.
+
+And I realize that I've truly fallen for you for who you are and for the way you make me happy even 
 through the smallest things, and I don't want to lose that. 
-I'm okay with taking things slowly. Hindi kita minamadali, at hindi rin kita pinipilit. 
+I'm okay with taking things slowly. Hindi kita minamadali, at hindi rin kita pinipilit, 
+Hindi dahil sigurado ako sa mga mangyayari, Kundi dahil sigurado ako sa lalim ng nararamdaman ko sayo.
 Ang intention ko lang ay maging tapat at totoo sa'yo, 
 para maramdaman mo na nandito ako at nandito para sa'yo
 sa kung nasaan tayo ngayon.
 
-Gusto ko ring malaman mo na kahit anong problema ang dumaan sa buhay mo, 
-handa kitang suportahan at samahan lalo na sa mga 
-down seasons mo. You don't have to face everything alone, 
-because there's someone willing to listen, understand, 
-and stay by your side even through the hard times hehe. 
-That's all baby, always take care yourself. 
+Gusto ko ring malaman mo na kahit anong problema or pagsubok ang dumaan sa buhay mo, 
+handa kitang pakinggan, unawain, at damayan sa bawat sugat ng hindi nila napapansin. 
+You don't have to face everything alone, because I'll be here to share it with you. 
+And stay by your side even through the hardest times hehe. 
+That's all baby, always take care yourself. Maybe tommorow or another day, we can eat together, or coffee date, or just simply hang out. 
+I just want to spend time with you and make you happy.
 
 
 I love you so much 💌✨

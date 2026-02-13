@@ -17,7 +17,8 @@ const photoMessages = {
 /* VIDEO MESSAGES */
 const videoMessages = {
   1: "Sobrang saya natin dito baby sana hindi nato mag bago hanggang dulo 🥺🎥",
-  2: "The best moment na nakasama ka, kahit ano pang isipin mo or mawala man feelings mo hinding hindi ako mas sasawa na piliin ka baby 🥺🎥"
+  2: "The best moment na nakasama ka, kahit ano pang isipin mo or mawala man feelings mo hinding hindi ako mas sasawa na piliin ka baby 🥺🎥",
+  3: "Flowers for you BABY HAHAHAHA!"
 };
 
 let typingInterval;
